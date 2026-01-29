@@ -2,13 +2,12 @@
 
 Technical documentation for Base (Ethereum L2). Built with Mintlify.
 
-## Commands
-
 | Command | Description |
 |---------|-------------|
-| `mintlify dev` | Local dev server |
-| `/lint` | Lint MDX files and fix issues |
-| `/doc-feedback` | Review content quality |
+| `mintlify dev` | Starts a local development server so you can preview your documentation changes live in your browser. Useful for checking layout, styling, and interactive components before publishing. |
+| `/lint` | Runs a linter on your MDX files to detect formatting or syntax issues. Automatically fixes problems where possible to ensure consistent style across all documentation pages. |
+| `/doc-feedback` | Generates a report on content quality, such as clarity, consistency, and adherence to writing guidelines. Helps contributors improve documentation before submitting a PR. |
+
 
 
 ## Structure
