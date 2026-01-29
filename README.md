@@ -62,7 +62,9 @@ npx mint dev
 2. **Edit content in `docs/`**: Follow the structure and style guidelines below. Preview locally with the Mint CLI.
 3. **Open a pull request**: Provide a clear summary and links to related pages. The docs team and community will review.
 
-> Tip: Prefer small, focused PRs. Link related guides and references directly in your content.
+<Tip>
+If you face errors while running `mint dev`, try updating Node.js to the latest version and restart your terminal.
+</Tip>
 
 ## Documentation structure
 
