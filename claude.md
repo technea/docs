@@ -10,6 +10,7 @@ Technical documentation for Base (Ethereum L2). Built with Mintlify.
 | `/lint` | Lint MDX files and fix issues |
 | `/doc-feedback` | Review content quality |
 
+
 ## Structure
 
 ```
