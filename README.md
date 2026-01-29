@@ -115,7 +115,7 @@ The Base documentation is organized into established sections (for example: `get
 > - Would a Large Language Model understand and follow this content?
 > - Can an engineer copy, paste, and run the examples as-is?
 
-### Mintlify formatting
+### Mintlify formatting guidelines
 
 - Start main sections with H2 (`##`) and subsections with H3 (`###`).
 - Use fenced code blocks with language and optional filename.
